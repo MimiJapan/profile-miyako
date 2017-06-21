@@ -1,0 +1,73 @@
+/* Here goes your CSS */
+body {
+  background-color: #FFFFFF;
+  color:white;
+
+}
+
+h1 {
+  font-family:"Copperplate";
+  color:white;
+  font-size: 300%;
+  text-align: center;
+  text-shadow: 1px 1px 2px black, 0 0 25px #052C11, 0 0 25px #052C11;
+}
+}
+h2 {
+  font-family: "Avant Garde";
+  color:#094D2A;
+  font-style: italic;
+  font-size: 200%;
+  line-height: 0%;
+  text-align: center;
+  text-shadow: 1px 1px 2px black, 0 0 25px #052C11, 0 0 25px #052C11;
+}
+h3 {
+  font-family: "Goudy Old Style";
+  color:white;
+  letter-spacing: 5px;
+  text-align: center;
+  text-shadow: 1px 1px 2px black, 0 0 25px #052C11, 0 0 25px #052C11;
+
+}
+p {
+  font-family: "Courier New"
+  text-shadow: 1px 1px 2px black, 0 0 25px #052C11, 0 0 25px #052C11;
+}
+a {
+    color: #E0FF1F;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: red;
+}
+
+li{
+  display: inline-block;
+
+}
+
+.card{
+  background-image: url("images/flower-patterns-ii.jpg");
+  text-align: center;
+  border: 0.1px solid white;
+  border-radius:25px;
+  box-shadow:2px 2px 2px #A4A4A4;
+  width: 500px;
+  margin: 10 auto;
+  padding: 10px 80px;
+}
+
+.avatar {
+  width: 300px ;
+  border-radius: 50%;
+  border-style: groove;
+
+}
+.movie {
+  width: 200px ;
+  border: solid 1px white;
+}
